@@ -1,0 +1,51 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+#main
+{
+	border: 1px solid black;
+	height:640px;
+	width: 400px;
+	margin-left: 0px;
+}
+#taskbar
+{
+	height:100px;
+}
+#taskbarimage
+{
+	margin-left: 5px;
+	margin-top: 10px;
+	width:100px;
+	float: left;
+}
+#AowLz
+{
+	width: 200px;
+	height: 100px;
+	margin-left: 10px;
+	float: left;
+}
+#AowLz p
+{
+	font-size: 60px;
+	color: orange;
+	margin-left: 35px;
+	margin-top: 15px;
+}
+#colon 
+{
+	float: left;
+	margin-left: 45px;
+	margin-top: 20px;
+}
+.img
+{
+	margin-left: 15px;
+}
+.img1
+{
+	margin-left: 1px;
+}
